@@ -1,3 +1,4 @@
 # hello-world
 Test repository
-READ ME FILE!!! Added some comments. Test comments.
+
+It is interesting for me to check android developer site.
